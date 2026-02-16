@@ -1,8 +1,7 @@
 # Hi 👋 I'm Intan Maharani
 
-Backend Developer (Laravel & Golang)  
-Building APIs & scalable backend systems.  
-Currently exploring React for frontend.
+Frontend Enthusiast (React) | Backend Foundation in Laravel & Golang
+Passionate about building clean UI & scalable systems.
 
 ---
 
