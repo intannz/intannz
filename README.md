@@ -6,9 +6,9 @@ Passionate about building clean UI & scalable systems.
 ---
 
 ## 📌 About Me
-- 🎓 I'm Studying at Pamulang University
-- 💻 Backend-focused, with growing interest in frontend development
-- 🔭 Passionate about building things that solve real problems
+- 🎓 Informatics Engineering Student at Universitas Pamulang
+- 💻 Frontend Developer (React) with backend foundation in Laravel & Golang
+- 🔭 Passionate about building intuitive and scalable web applications
 
 ---
 
